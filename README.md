@@ -1,8 +1,8 @@
-# Project Name
+# [Project Name]
 
 ## Setup
 
-\```bash
+```bash
 npm install
 npm run dev
-\```
+```
